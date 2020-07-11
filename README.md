@@ -1,16 +1,12 @@
-### Hi there 👋
+# Deusdete Filho
+[Linkedin Badge](https://img.shields.io/badge/-HugoDuarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deusdetefilho/)](https://www.linkedin.com/in/deusdetefilho/) 
+[![Gmail Badge](https://img.shields.io/badge/-deusdetefilho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deusdetefilho@gmail.com)](mailto:deusdetefilho@gmail.com)
 
-<!--
-**deusdete-filho/deusdete-filho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What's up my friends 👋
+I'm Deusdete Filho.
+I'm a full stack developer :computer:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :rocket:   I’m currently working at **Rocketseat**
+- :purple_heart:   React Native
+- :computer:   ReactJS, Node, React Native, Typescript
+- 💬   Ask me about: tech, games, movies
