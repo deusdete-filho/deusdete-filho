@@ -9,6 +9,6 @@
 Full Stack and Mobile Developer that loves UI/UX design
 
 
-- :rocket: Computer engineer
-- :computer:   ReactJS, Node, React Native, Typescript
+- 🎓 Computer engineer
+- 💻  ReactJS, Node, React Native, Typescript
 - 💬   Ask me about: tech, movies
